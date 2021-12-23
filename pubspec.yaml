@@ -1,6 +1,6 @@
 name: unity_ads_mediation
 description: Unity Mediation is a plugin for Flutter Applications. This plugin is able to display and Unity Rewarded Ads and Interstitial Ads.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/AnmolSethi/unity_ads_mediation
 repository: https://github.com/AnmolSethi/unity_ads_mediation
 
