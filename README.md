@@ -1,7 +1,7 @@
 # Unity Mediation Ads
 
 [![Pub](https://img.shields.io/pub/v/unity_ads_mediation.svg)](https://pub.dev/packages/unity_ads_mediation)
-[![License](https://img.shields.io/github/license/pavzay/unity_ads_mediation)](https://github.com/pavzay/unity_ads_mediation/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/AnmolSethi/unity_ads_mediation)](https://github.com/pavzay/unity_ads_mediation/blob/master/LICENSE)
 
 [Unity Mediation Ads](https://docs.unity.com/mediation/IntroToMediation) is a plugin for Flutter Applications. This plugin is able to display and Unity Rewarded Ads and Interstitial Ads.
 
@@ -100,4 +100,4 @@ UnityAdsState:
 [![Pub popularity](https://badgen.net/pub/popularity/unity_ads_mediation)](https://pub.dev/packages/unity_ads_mediation/score)
 [![Pub points](https://badgen.net/pub/points/unity_ads_mediation)](https://pub.dev/packages/unity_ads_mediation/score)
 [![Flutter platform](https://badgen.net/pub/flutter-platform/unity_ads_mediation)](https://pub.dev/packages/unity_ads_mediation)
-[![GitHub popularity](https://img.shields.io/github/stars/pavzay/unity_ads_mediation?logo=github&logoColor=white)](https://github.com/pavzay/flutter_unity_ads)
+[![GitHub popularity](https://img.shields.io/github/stars/AnmolSethi/unity_ads_mediation?logo=github&logoColor=white)](https://github.com/AnmolSethi/unity_ads_mediation)
