@@ -1,8 +1,8 @@
 const mainChannel = 'unity_ads_mediation';
 
-const bannerAdChannel = mainChannel + "/bannerAd";
-const videoAdChannel = mainChannel + "/videoAd";
-const fullAdChannel = mainChannel + "/fullScreenAd";
+const bannerAdChannel = "$mainChannel/bannerAd";
+const videoAdChannel = "$mainChannel/videoAd";
+const fullAdChannel = "$mainChannel/fullScreenAd";
 
 const gameIdParameter = "gameId";
 

@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
+
 import 'src/constants.dart';
 
 class UnityAdsMediation {
